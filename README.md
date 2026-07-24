@@ -6,6 +6,8 @@
 
 self-replicating web swarm
 
+ - [https://trashrobot.net/](https://trashrobot.net/)
+ - [http://localhost/trashrobot-spore/readme.html](http://localhost/trashrobot-spore/readme.html)
  - [index.html](index.html)
  - [editor.html](editor.html)
  - [load-file.php](load-file.php)
